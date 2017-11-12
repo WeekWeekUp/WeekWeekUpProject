@@ -1,4 +1,5 @@
-###目录:
+### 系列文章:
+
 0.[instruction说明及目录](http://www.jianshu.com/p/64441ea99eba)
 
 1.[Introducing介绍Metal](http://www.jianshu.com/p/96de39ae1881)
@@ -22,7 +23,7 @@
 10.[Ray tracing in a Swift playground射线追踪](http://www.jianshu.com/p/ccbe22a72ea2)
 
 11.[Ray tracing in a Swift playground2射线追踪2](http://www.jianshu.com/p/44430a57778e)
-](
+
 12.[Ray tracing in a Swift playground3射线追踪3](http://www.jianshu.com/p/807398858beb)
 
 13.[Ray tracing in a Swift playground4射线追踪4](http://www.jianshu.com/p/d64d5e962dc5)
