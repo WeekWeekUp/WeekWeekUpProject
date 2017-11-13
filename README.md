@@ -25,4 +25,4 @@
 * [单元测试](http://shayuan.me/2017/11/02/单元测试/) ([AceSha](http://shayuan.me)原创)
 
 ## Shadowsocks
-* [Shadowsocks] (http://blog.gongzichen.com/) ([gzc](http://blog.gongzichen.com/)原创)
+* [Shadowsocks](http://blog.gongzichen.com/) ([gzc](http://blog.gongzichen.com/)原创)
