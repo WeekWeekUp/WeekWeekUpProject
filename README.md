@@ -1,5 +1,10 @@
 # WeekWeekUpProject
 
+
+关注我们的公众号:iOSWeekWeekUp,获取及时更新
+
+![QRCode](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/qrcode_for_iOSWeekWeekUp.jpg)
+
 ## 近期文章列表
 
 
@@ -7,6 +12,7 @@
 * [如何制作一个AR版Stack的游戏](http://www.jianshu.com/p/3f57723d5311)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64)原创 )
 * [仿水果忍者小游戏Geometry Fighter](http://www.jianshu.com/p/c61ce7307359)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
 * [3D打砖块游戏Breaker](http://www.jianshu.com/p/70341900a729) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
+* [3D平衡球游戏Marble Maze](http://www.jianshu.com/p/3afeaa4b763a) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
 
