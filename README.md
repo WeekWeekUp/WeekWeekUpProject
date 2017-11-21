@@ -20,6 +20,9 @@
 * [使用Metal中的粒子系统part2](http://www.jianshu.com/p/5df653c41619)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
 * [所有 Metal 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/Metal.md)
 
+## 架构
+* [iOS类Redux架构的简单实现及其利弊](http://t.cn/RjFc2ef) ([AceSha](http://shayuan.me)原创)
+
 ## Git
 * [开发中关于Git那些事](http://www.cnblogs.com/chao8888/p/7803732.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
 
@@ -32,3 +35,5 @@
 
 ## Shadowsocks
 * [Shadowsocks](http://blog.gongzichen.com/2017/10/28/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91(shadowsock)/) ([gzc](http://blog.gongzichen.com/)原创)
+
+
