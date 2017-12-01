@@ -18,6 +18,7 @@
 
 ## Metal
 * [使用Metal中的粒子系统part2](http://www.jianshu.com/p/5df653c41619)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
+* [使用Metal中的粒子系统part3](http://www.jianshu.com/p/4c63ca9e2a99) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
 * [所有 Metal 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/Metal.md)
 
 ## 架构

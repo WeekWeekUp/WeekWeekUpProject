@@ -81,3 +81,5 @@
 39. [Working with Particles in Metal粒子系统](http://www.jianshu.com/p/40f61e5ac901)
 
 40. [Working with Particles in Metal part2粒子系统2](http://www.jianshu.com/p/5df653c41619)
+
+41. [Working with Particles in Metal part3粒子系统3](http://www.jianshu.com/p/4c63ca9e2a99)
