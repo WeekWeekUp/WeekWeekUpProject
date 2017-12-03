@@ -9,16 +9,17 @@
 
 
 ## SceneKit
+* [跨平台游戏(macOS,tvOS,watchOS)](http://www.jianshu.com/p/3ffd87fa9085) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
 * [如何制作一个AR版Stack的游戏](http://www.jianshu.com/p/3f57723d5311)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64)原创 )
 * [仿水果忍者小游戏Geometry Fighter](http://www.jianshu.com/p/c61ce7307359)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
-* [3D打砖块游戏Breaker](http://www.jianshu.com/p/70341900a729) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
-* [3D平衡球游戏Marble Maze](http://www.jianshu.com/p/3afeaa4b763a) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
+
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
 
 ## Metal
 * [使用Metal中的粒子系统part2](http://www.jianshu.com/p/5df653c41619)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
 * [使用Metal中的粒子系统part3](http://www.jianshu.com/p/4c63ca9e2a99) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
+
 * [所有 Metal 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/Metal.md)
 
 ## 架构
