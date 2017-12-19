@@ -6,7 +6,8 @@
 ![QRCode](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/qrcode_for_iOSWeekWeekUp.jpg)
 
 ## 近期文章列表
-
+## iOS断点上传文件
+* [ iOS断点上传文件](http://www.cnblogs.com/chao8888/p/8058457.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
 
 ## SceneKit
 * [跨平台游戏(macOS,tvOS,watchOS)](http://www.jianshu.com/p/3ffd87fa9085) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
