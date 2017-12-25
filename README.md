@@ -4,9 +4,7 @@
                         <img src="https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/qrcode_for_iOSWeekWeekUp.jpg" width="131" height="131" alt="搜索微信公众号：iOSWeekWeekUp">
                         <div class="article_scan">微信扫一扫</div>
                         <div class="article_txt"><span style="color:#999999">订阅每周一篇iOS开发文章推送<br>公众号：</span>CocoaChina</div>
-                    </div>
-//关注我们的公众号:iOSWeekWeekUp,获取及时更新
-// ![QRCode](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/qrcode_for_iOSWeekWeekUp.jpg)
+ </div>
 
 ## 近期文章列表
 
