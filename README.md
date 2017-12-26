@@ -22,7 +22,7 @@
 * [所有 Metal 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/Metal.md)
 
 ### 实用工具
-* [iOS通过切片仿断点机制上传文件](http://www.cnblogs.com/chao8888/p/8058457.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
+* [iOS通过切片仿断点机制上传文件](http://www.cnblogs.com/chao8888/p/8058457.html) ([啸天](http://www.cnblogs.com/chao8888/)原创[demo链接](https://github.com/USimpleLife/SPUploadTool))
 
 ### 架构
 * [iOS类Redux架构的简单实现及其利弊](http://t.cn/RjFc2ef) ([AceSha](http://shayuan.me)原创)
