@@ -8,17 +8,13 @@
 
 ## 近期文章列表
 
-### SceneKit
-* [体素风格过马路游戏Mr. Pig](https://juejin.im/post/5a3232285188251c1140a406)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
-* [跨平台游戏(macOS,tvOS,watchOS)](http://www.jianshu.com/p/3ffd87fa9085) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
-* [如何制作一个AR版Stack的游戏](http://www.jianshu.com/p/3f57723d5311)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64)原创 )
-
+### 游戏,3D
+* [SceneKit][体素风格过马路游戏Mr. Pig](https://juejin.im/post/5a3232285188251c1140a406)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
+* [SceneKit][如何制作一个AR版Stack的游戏](http://www.jianshu.com/p/3f57723d5311)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64)原创 )
 
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
-### Metal
-* [使用Metal中的粒子系统part2](http://www.jianshu.com/p/5df653c41619)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
-* [使用Metal中的粒子系统part3](http://www.jianshu.com/p/4c63ca9e2a99) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
+* [Metal][使用Metal中的粒子系统part3](http://www.jianshu.com/p/4c63ca9e2a99) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
 
 * [所有 Metal 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/Metal.md)
 
