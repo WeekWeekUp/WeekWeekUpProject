@@ -32,7 +32,7 @@
 
 ### 版本控制
 * [开发中关于Git那些事](http://www.cnblogs.com/chao8888/p/7803732.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
-* [开发中关于Git那些事(续:Git变基)](http://www.cnblogs.com/chao8888/p/8175796.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
+* [开发中关于Git那些事(Git Rebasing)](http://www.cnblogs.com/chao8888/p/8175796.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
 
 ### 实用技术
 * [科学上网Shadowsocks](http://www.2017927.com/blog/other/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91(shadowsock)) ([gzc](http://www.2017927.com/)原创)
