@@ -83,3 +83,5 @@
 40. [Working with Particles in Metal part2粒子系统2](https://juejin.im/post/5a32081ff265da43224136c1)
 
 41. [Working with Particles in Metal part2粒子系统3](https://juejin.im/post/5a32084451882575cb741f3f)
+
+42. [Metal 2 on the A11 GPU新特性](https://juejin.im/post/5a5b69b5f265da3e2839f906)

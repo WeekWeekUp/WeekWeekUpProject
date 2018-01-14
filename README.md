@@ -8,13 +8,13 @@
 
 ## 近期文章列表
 
-### 游戏,3D
+### 游戏,3D,AR
 * [SceneKit][体素风格过马路游戏Mr. Pig](https://juejin.im/post/5a3232285188251c1140a406)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
 * [SceneKit][如何制作一个AR版Stack的游戏](http://www.jianshu.com/p/3f57723d5311)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64)原创 )
 
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
-* [Metal][使用Metal中的粒子系统part3](http://www.jianshu.com/p/4c63ca9e2a99) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
+* [Metal][Metal 2 on the A11 GPU新特性](https://juejin.im/post/5a5b69b5f265da3e2839f906) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
 
 * [所有 Metal 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/Metal.md)
 
