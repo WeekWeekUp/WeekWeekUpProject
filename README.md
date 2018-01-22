@@ -9,8 +9,8 @@
 ## 近期文章列表
 
 ### 游戏,3D,AR
+* [ARKit][苹果官方AR场景交互Demo解读](https://juejin.im/post/5a65c25e6fb9a01cb80fdb5d) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 原创)
 * [SceneKit][体素风格过马路游戏Mr. Pig](https://juejin.im/post/5a3232285188251c1140a406)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 翻译)
-* [SceneKit][如何制作一个AR版Stack的游戏](http://www.jianshu.com/p/3f57723d5311)  ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64)原创 )
 
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
