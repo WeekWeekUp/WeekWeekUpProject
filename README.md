@@ -21,6 +21,7 @@
 ### 实用工具
 * [iOS通过切片仿断点机制上传文件](http://www.cnblogs.com/chao8888/p/8058457.html) ([啸天](http://www.cnblogs.com/chao8888/)原创[demo链接](https://github.com/USimpleLife/SPUploadTool))
 * [正则基础与细节回顾](https://www.cnblogs.com/chao8888/p/8311340.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
+* [正则实例拓展（环视特性）](http://www.cnblogs.com/chao8888/p/8352476.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
 
 ### 架构
 * [iOS类Redux架构的简单实现及其利弊](http://t.cn/RjFc2ef) ([AceSha](http://shayuan.me)原创)
