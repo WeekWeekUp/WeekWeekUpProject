@@ -42,7 +42,7 @@
 * [hexo编写博客](https://coderdeyu.github.io/2017/10/08/hexo%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2/) ([CoderDeYu](https://coderdeyu.github.io)原创)
 
 ### JS基础
-* [JavaScript异步流程控制的前世今生] （https://juejin.im/post/5a605a17518825732258c0e4）（[gzc ] （https://juejin.im/user/588e8eb78d6d81006c2e3a48 ））原创)
+* [JavaScript异步流程控制的前世今生](https://juejin.im/post/5a605a17518825732258c0e4）（[gzc ] （https://juejin.im/user/588e8eb78d6d81006c2e3a48 ））原创)
 
 ### 苹果那些事儿
 * [苹果在AR/VR领域的现状与预测](http://www.jianshu.com/p/dc21851201d1) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 原创)
