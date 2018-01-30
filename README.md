@@ -37,12 +37,14 @@
 * [开发中关于Git那些事(Git Rebasing)](http://www.cnblogs.com/chao8888/p/8175796.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
 
 ### 实用技术
-* [科学上网Shadowsocks](http://www.2017927.com/blog/other/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91(shadowsock)) ([gzc](http://www.2017927.com/)原创)
+* [科学上网Shadowsocks](https://juejin.im/post/5a5d4b5251882573541c5cd2) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创)
 * [搭建hexo博客](https://coderdeyu.github.io/2017/10/08/%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2/) ([CoderDeYu](https://coderdeyu.github.io)原创)
 * [hexo编写博客](https://coderdeyu.github.io/2017/10/08/hexo%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2/) ([CoderDeYu](https://coderdeyu.github.io)原创)
 
 ### JS基础
-* [JavaScript异步流程控制的前世今生](https://juejin.im/post/5a605a17518825732258c0e4）（[gzc ] （https://juejin.im/user/588e8eb78d6d81006c2e3a48 ））原创)
+* [Promise的简单实现](https://juejin.im/post/5a58506cf265da3e355afff4) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创) 
+* [JavaScript异步流程控制的前世今生](https://juejin.im/post/5a605a17518825732258c0e4) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创)
+
 
 ### 苹果那些事儿
 * [苹果在AR/VR领域的现状与预测](http://www.jianshu.com/p/dc21851201d1) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 原创)
