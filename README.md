@@ -26,7 +26,7 @@
 
 ### 架构&设计模式
 * [iOS类Redux架构的简单实现及其利弊](http://t.cn/RjFc2ef) ([AceSha](http://shayuan.me)原创)
-* [Swift项目的模块化方式探究](http://shayuan.me/2018/01/19/Swift的模块化方式探解/) ([AceSha](http://shayuan.me)原创)
+* [Swift项目的模块化方式探究](http://suo.im/1aRx8F) ([AceSha](http://shayuan.me)原创)
 
 ### RxSwift
 * [RxSwift源码解析（一）](http://t.cn/RTKMrEe) ([AceSha](http://shayuan.me)原创)
