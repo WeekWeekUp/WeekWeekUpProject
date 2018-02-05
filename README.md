@@ -24,8 +24,9 @@
 * [正则基础与细节回顾](https://www.cnblogs.com/chao8888/p/8311340.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
 * [正则实例拓展（环视特性）](http://www.cnblogs.com/chao8888/p/8352476.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
 
-### 架构
+### 架构&设计模式
 * [iOS类Redux架构的简单实现及其利弊](http://t.cn/RjFc2ef) ([AceSha](http://shayuan.me)原创)
+* [Swift项目的模块化方式探究](http://shayuan.me/2018/01/19/Swift的模块化方式探解/) ([AceSha](http://shayuan.me)原创)
 
 ### RxSwift
 * [RxSwift源码解析（一）](http://t.cn/RTKMrEe) ([AceSha](http://shayuan.me)原创)
