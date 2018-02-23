@@ -9,9 +9,10 @@
 ## 近期文章列表
 
 ### 游戏,3D,AR
+* [ARKit][着色器Shader的应用](https://juejin.im/post/5a8fe7a4f265da4e8123b96b) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit][苹果官方AR变色龙Demo解读](https://juejin.im/post/5a76e1975188257a59119bac) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit][苹果官方AR场景交互Demo解读](https://juejin.im/post/5a65c25e6fb9a01cb80fdb5d) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
-* [SceneKit][体素风格过马路游戏Mr. Pig](https://juejin.im/post/5a3232285188251c1140a406)  ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
+
 
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
