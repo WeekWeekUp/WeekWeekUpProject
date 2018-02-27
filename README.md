@@ -9,15 +9,15 @@
 ## 近期文章列表
 
 ### 游戏,3D,AR
+* [ARKit][加载自定义几何体](https://juejin.im/post/5a955ee7f265da4e7071f1db) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit][着色器Shader的应用](https://juejin.im/post/5a8fe7a4f265da4e8123b96b) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit][苹果官方AR变色龙Demo解读](https://juejin.im/post/5a76e1975188257a59119bac) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
-* [ARKit][苹果官方AR场景交互Demo解读](https://juejin.im/post/5a65c25e6fb9a01cb80fdb5d) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
+
 
 
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
 * [Metal][Metal 2 on the A11 GPU新特性](https://juejin.im/post/5a5b69b5f265da3e2839f906) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
-
 * [所有 Metal 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/Metal.md)
 
 ### 实用工具
