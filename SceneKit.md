@@ -52,4 +52,3 @@
 
 26. [如何制作一个像Stack的游戏](https://juejin.im/post/5a3232c46fb9a045055e26ef)
 
-27. [如何制作一个AR版Stack的游戏](https://juejin.im/post/5a32331f6fb9a0450671a50b)
