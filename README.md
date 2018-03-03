@@ -9,12 +9,13 @@
 ## 近期文章列表
 
 ### 游戏,3D,AR
+* [ARKit][3D与AR/VR应用Debug与优化浅谈](https://juejin.im/post/5a9a3fbf6fb9a028d56691ac) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit][加载自定义几何体](https://juejin.im/post/5a955ee7f265da4e7071f1db) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit][着色器Shader的应用](https://juejin.im/post/5a8fe7a4f265da4e8123b96b) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
-* [ARKit][苹果官方AR变色龙Demo解读](https://juejin.im/post/5a76e1975188257a59119bac) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 
+* [所有 ARKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/ARKit.md)
 
-
+* [SceneKit][如何制作一个像Stack的游戏](https://juejin.im/post/5a3232c46fb9a045055e26ef)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
 * [Metal][Metal 2 on the A11 GPU新特性](https://juejin.im/post/5a5b69b5f265da3e2839f906) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
