@@ -11,3 +11,4 @@
 5. [加载自定义几何体](https://juejin.im/post/5a955ee7f265da4e7071f1db)
 
 6. [3D与AR/VR应用Debug与优化浅谈](https://juejin.im/post/5a9a3fbf6fb9a028d56691ac)
+7. [ARKit1.5的图片识别功能](https://juejin.im/post/5aa616086fb9a028e0141dea)
