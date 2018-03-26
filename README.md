@@ -54,4 +54,8 @@
 ### 苹果那些事儿
 * [苹果在AR/VR领域的现状与预测](http://www.jianshu.com/p/dc21851201d1) ([史前图腾](http://www.jianshu.com/u/fc2c83c72a64) 原创)
 
+## 小程序
+* [微信小程序_基础](https://juejin.im/post/5ab8855a518825556b6cc788) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创) 
+* [微信小程序_常用组件](https://juejin.im/post/5ab885a7f265da237410f6f2) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创)
+* [微信小程序_豆瓣电影](https://juejin.im/post/5ab88ba1518825556b6cc7b4) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创)
 
