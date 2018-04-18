@@ -9,17 +9,17 @@
 ## 近期文章列表
 
 ### 游戏,3D,AR
-* [ARKit][ARKit1.5的图片识别功能](https://juejin.im/post/5aa616086fb9a028e0141dea) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
-* [ARKit][3D与AR/VR应用Debug与优化浅谈](https://juejin.im/post/5a9a3fbf6fb9a028d56691ac) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
-* [ARKit][加载自定义几何体](https://juejin.im/post/5a955ee7f265da4e7071f1db) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
+* [ARKit].[ARKit1.5的图片识别功能](https://juejin.im/post/5aa616086fb9a028e0141dea) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
+* [ARKit].[3D与AR/VR应用Debug与优化浅谈](https://juejin.im/post/5a9a3fbf6fb9a028d56691ac) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
+* [ARKit].[加载自定义几何体](https://juejin.im/post/5a955ee7f265da4e7071f1db) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 
 
 * [所有 ARKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/ARKit.md)
 
-* [SceneKit][如何制作一个像Stack的游戏](https://juejin.im/post/5a3232c46fb9a045055e26ef)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
+* [SceneKit].[如何制作一个像Stack的游戏](https://juejin.im/post/5a3232c46fb9a045055e26ef)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
-* [Metal][Metal 2 on the A11 GPU新特性](https://juejin.im/post/5a5b69b5f265da3e2839f906) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
+* [Metal].[Metal 2 on the A11 GPU新特性](https://juejin.im/post/5a5b69b5f265da3e2839f906) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 * [所有 Metal 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/Metal.md)
 
 ### 实用工具
@@ -34,15 +34,16 @@
 ### RxSwift
 * [RxSwift源码解析（一）](http://t.cn/RTKMrEe) ([AceSha](http://shayuan.me)原创)
 
-### 单元测试
+### 单元测试&调试
 * [单元测试](http://shayuan.me/2017/11/02/单元测试/) ([AceSha](http://shayuan.me)原创)
+* [进击的Bug---那些年我遇到的大坑3](https://juejin.im/post/5ac07d7af265da2377198c6a)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 
 ### 版本控制
 * [开发中关于Git那些事](http://www.cnblogs.com/chao8888/p/7803732.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
 * [开发中关于Git那些事(Git Rebasing)](http://www.cnblogs.com/chao8888/p/8175796.html) ([啸天](http://www.cnblogs.com/chao8888/)原创)
 
 ### 实用技术
-* [科学上网Shadowsocks](https://juejin.im/post/5a5d4b5251882573541c5cd2) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创)
+* [科学上网Shadowsocks](https://juejin.im/post/5ac312746fb9a028d2081f6f) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创)
 * [搭建hexo博客](https://coderdeyu.github.io/2017/10/08/%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2/) ([CoderDeYu](https://coderdeyu.github.io)原创)
 * [hexo编写博客](https://coderdeyu.github.io/2017/10/08/hexo%E7%BC%96%E5%86%99%E5%8D%9A%E5%AE%A2/) ([CoderDeYu](https://coderdeyu.github.io)原创)
 
