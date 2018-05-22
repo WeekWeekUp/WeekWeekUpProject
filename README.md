@@ -9,9 +9,11 @@
 ## 近期文章列表
 
 ### 游戏,3D,AR
+
+* [ARKit].[对裸眼3D效果一次不太成功的尝试](https://juejin.im/post/5ae5c6576fb9a07acf55eb6a) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
+
 * [ARKit].[ARKit1.5的图片识别功能](https://juejin.im/post/5aa616086fb9a028e0141dea) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit].[3D与AR/VR应用Debug与优化浅谈](https://juejin.im/post/5a9a3fbf6fb9a028d56691ac) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
-* [ARKit].[加载自定义几何体](https://juejin.im/post/5a955ee7f265da4e7071f1db) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 
 
 * [所有 ARKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/ARKit.md)
