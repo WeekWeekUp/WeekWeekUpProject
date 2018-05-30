@@ -18,10 +18,18 @@
 
 * [所有 ARKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/ARKit.md)
 
+  
+
 * [SceneKit].[如何制作一个像Stack的游戏](https://juejin.im/post/5a3232c46fb9a045055e26ef)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
+
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
+  
+
+* [Metal].[Metal By Tutorials book! Metal教程书籍](https://juejin.im/post/5b0e55f16fb9a00a1520e699) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
+
 * [Metal].[Metal 2 on the A11 GPU新特性](https://juejin.im/post/5a5b69b5f265da3e2839f906) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
+
 * [所有 Metal 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/Metal.md)
 
 ### 实用工具
