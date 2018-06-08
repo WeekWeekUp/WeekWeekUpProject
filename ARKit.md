@@ -12,4 +12,5 @@
 10. [3D模型怎么制作,哪里寻找,如何使用?](https://xiaozhuanlan.com/topic/0821547963)
 11. [[译]在ARKit中创建一个时空门App:准备开始](https://xiaozhuanlan.com/topic/9175234608)
 12. [[译]在ARKit中创建一个时空门App:添加物体](https://xiaozhuanlan.com/topic/9541708632)
+13. [[译]在ARKit中创建一个时空门App:材质和光照](https://xiaozhuanlan.com/topic/6589430127)
 
