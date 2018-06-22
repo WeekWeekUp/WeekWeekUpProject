@@ -8,7 +8,7 @@
 6. [3D与AR/VR应用Debug与优化浅谈](https://juejin.im/post/5a9a3fbf6fb9a028d56691ac)
 7. [ARKit1.5的图片识别功能](https://juejin.im/post/5aa616086fb9a028e0141dea)
 8. [对裸眼3D效果一次不太成功的尝试](https://juejin.im/post/5ae5c6576fb9a07acf55eb6a)
-9. [3D/AR中的simd类型](https://xiaozhuanlan.com/topic/9647835120)
+9. [3D/AR中的simd类型](https://juejin.im/post/5b2b0ce4518825522609d18d)
 10. [3D模型怎么制作,哪里寻找,如何使用?](https://xiaozhuanlan.com/topic/0821547963)
 11. [[译]在ARKit中创建一个时空门App:准备开始](https://xiaozhuanlan.com/topic/9175234608)
 12. [[译]在ARKit中创建一个时空门App:添加物体](https://xiaozhuanlan.com/topic/9541708632)
