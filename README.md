@@ -72,3 +72,7 @@
 * [微信小程序_常用组件](https://juejin.im/post/5ab885a7f265da237410f6f2) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创)
 * [微信小程序_豆瓣电影](https://juejin.im/post/5ab88ba1518825556b6cc7b4) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创)
 
+### 人工智能
+
+* [[译]Create ML教程:开始入门](https://juejin.im/post/5b2f66a9f265da59a1172896)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
+
