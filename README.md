@@ -14,7 +14,6 @@
 * [ARKit].[3D模型怎么制作,哪里寻找,如何使用?](https://juejin.im/post/5b47fc57f265da0f783c8d38) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit].[对裸眼3D效果一次不太成功的尝试](https://juejin.im/post/5ae5c6576fb9a07acf55eb6a) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit].[ARKit1.5的图片识别功能](https://juejin.im/post/5aa616086fb9a028e0141dea) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
-* [ARKit].[3D与AR/VR应用Debug与优化浅谈](https://juejin.im/post/5a9a3fbf6fb9a028d56691ac) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 
 
 * [所有 ARKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/ARKit.md)
@@ -26,6 +25,10 @@
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
 
   
+
+  
+
+* [Metal].[Raytracing with Metal射线追踪](https://juejin.im/post/5b49b809e51d45190e34f4ad) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 
 * [Metal].[Metal By Tutorials book! Metal教程书籍](https://juejin.im/post/5b0e55f16fb9a00a1520e699) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 

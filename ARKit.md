@@ -13,10 +13,8 @@
 11. [[译]在ARKit中创建一个时空门App:准备开始](https://xiaozhuanlan.com/topic/9175234608)
 12. [[译]在ARKit中创建一个时空门App:添加物体](https://xiaozhuanlan.com/topic/9541708632)
 13. [[译]在ARKit中创建一个时空门App:材质和光照](https://xiaozhuanlan.com/topic/6589430127)
-
 14. [《ARKit by Tutorials》读书笔记1：开始入门](https://xiaozhuanlan.com/topic/2315870946)
-
 15. [《ARKit by Tutorials》读书笔记2：时空门](https://xiaozhuanlan.com/topic/2486059137)
-
 16. [《ARKit by Tutorials》读书笔记3：交互操作](https://xiaozhuanlan.com/topic/4605712893)
+17. [《ARKit by Tutorials》读书笔记4：面部识别AR](https://xiaozhuanlan.com/topic/0532147869)
 

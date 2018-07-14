@@ -45,3 +45,5 @@
 41. [Working with Particles in Metal part2粒子系统3](https://juejin.im/post/5a32084451882575cb741f3f)
 42. [Metal 2 on the A11 GPU新特性](https://juejin.im/post/5a5b69b5f265da3e2839f906)
 43. [Metal By Tutorials book!Metal教程书籍](https://juejin.im/post/5b0e55f16fb9a00a1520e699)
+44. [Raytracing with Metal射线追踪](https://juejin.im/post/5b49b809e51d45190e34f4ad)
+
