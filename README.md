@@ -10,10 +10,9 @@
 
 ### 游戏,3D,AR
 
+* [ARKit].[[译]在ARKit中创建一个时空门App:准备开始](https://juejin.im/post/5b57ddbbe51d451918534bc9)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 * [ARKit].[3D/AR中的simd类型](https://juejin.im/post/5b2b0ce4518825522609d18d) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit].[3D模型怎么制作,哪里寻找,如何使用?](https://juejin.im/post/5b47fc57f265da0f783c8d38) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
-* [ARKit].[对裸眼3D效果一次不太成功的尝试](https://juejin.im/post/5ae5c6576fb9a07acf55eb6a) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
-* [ARKit].[ARKit1.5的图片识别功能](https://juejin.im/post/5aa616086fb9a028e0141dea) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 
 
 * [所有 ARKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/ARKit.md)
