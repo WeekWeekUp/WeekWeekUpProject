@@ -74,6 +74,7 @@
 * [微信小程序_基础](https://juejin.im/post/5ab8855a518825556b6cc788) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创) 
 * [微信小程序_常用组件](https://juejin.im/post/5ab885a7f265da237410f6f2) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创)
 * [微信小程序_豆瓣电影](https://juejin.im/post/5ab88ba1518825556b6cc7b4) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创)
+* [血泪总结:如何从微信小程序的坑跳进支付宝小程序的大坑](https://juejin.im/post/5b651e9ee51d4535c7564fd1) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 
 ### 人工智能
 
