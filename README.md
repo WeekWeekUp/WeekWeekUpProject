@@ -10,6 +10,7 @@
 
 ### 游戏,3D,AR
 
+* [ARKit].[[译]在ARKit中创建一个时空门App:添加物体](https://juejin.im/post/5b7e2aa6e51d4538ac05bc43)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 * [ARKit].[[译]在ARKit中创建一个时空门App:准备开始](https://juejin.im/post/5b57ddbbe51d451918534bc9)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 * [ARKit].[3D/AR中的simd类型](https://juejin.im/post/5b2b0ce4518825522609d18d) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit].[3D模型怎么制作,哪里寻找,如何使用?](https://juejin.im/post/5b47fc57f265da0f783c8d38) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)

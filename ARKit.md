@@ -11,7 +11,7 @@
 9. [3D/AR中的simd类型](https://juejin.im/post/5b2b0ce4518825522609d18d)
 10. [3D模型怎么制作,哪里寻找,如何使用?](https://juejin.im/post/5b47fc57f265da0f783c8d38)
 11. [[译]在ARKit中创建一个时空门App:准备开始](https://juejin.im/post/5b57ddbbe51d451918534bc9)
-12. [[译]在ARKit中创建一个时空门App:添加物体](https://xiaozhuanlan.com/topic/9541708632)
+12. [[译]在ARKit中创建一个时空门App:添加物体](https://juejin.im/post/5b7e2aa6e51d4538ac05bc43)
 13. [[译]在ARKit中创建一个时空门App:材质和光照](https://xiaozhuanlan.com/topic/6589430127)
 14. [《ARKit by Tutorials》读书笔记1：开始入门](https://xiaozhuanlan.com/topic/2315870946)
 15. [《ARKit by Tutorials》读书笔记2：时空门](https://xiaozhuanlan.com/topic/2486059137)
@@ -20,4 +20,8 @@
 18. [《ARKit by Tutorials》读书笔记5：特殊物理效果](https://xiaozhuanlan.com/topic/1904823657)
 19. [苹果官方ARKit+Vision+Core ML联合使用Demo解读](https://xiaozhuanlan.com/topic/7910568324)
 20. [苹果官方多人AR体验Demo解读](https://xiaozhuanlan.com/topic/9138270546)
+
+21. [苹果官方3D物体扫瞄及检测Demo解读](https://xiaozhuanlan.com/topic/8271605394)
+
+22. [[译]AR面部追踪教程:开始](https://xiaozhuanlan.com/topic/1423857096)
 
