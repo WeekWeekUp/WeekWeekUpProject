@@ -12,7 +12,7 @@
 10. [3D模型怎么制作,哪里寻找,如何使用?](https://juejin.im/post/5b47fc57f265da0f783c8d38)
 11. [[译]在ARKit中创建一个时空门App:准备开始](https://juejin.im/post/5b57ddbbe51d451918534bc9)
 12. [[译]在ARKit中创建一个时空门App:添加物体](https://juejin.im/post/5b7e2aa6e51d4538ac05bc43)
-13. [[译]在ARKit中创建一个时空门App:材质和光照](https://xiaozhuanlan.com/topic/6589430127)
+13. [[译]在ARKit中创建一个时空门App:材质和光照](https://juejin.im/post/5b88d11be51d4538dd090151)
 14. [《ARKit by Tutorials》读书笔记1：开始入门](https://xiaozhuanlan.com/topic/2315870946)
 15. [《ARKit by Tutorials》读书笔记2：时空门](https://xiaozhuanlan.com/topic/2486059137)
 16. [《ARKit by Tutorials》读书笔记3：交互操作](https://xiaozhuanlan.com/topic/4605712893)
