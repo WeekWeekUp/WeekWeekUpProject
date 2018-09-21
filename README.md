@@ -64,6 +64,7 @@
 * [苹果在AR/VR领域的现状与预测](https://juejin.im/post/5a3147ed51882531e944d01c) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [对苹果WWDC2018的一些不负责任的猜测](https://juejin.im/post/5ad99f345188256735641227)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [从开发者的角度分析iOS应如何省电](https://juejin.im/post/5afd82f15188254270642ff0)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
+* [苹果在AR VR领域的现状与预测再谈](https://juejin.im/post/5ba2187f5188255c3175e0f8) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 
 ### 小程序
 * [微信小程序_基础](https://juejin.im/post/5ab8855a518825556b6cc788) ([gzc](https://juejin.im/user/588e8eb78d6d81006c2e3a48/posts)原创) 
