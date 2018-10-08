@@ -47,3 +47,4 @@
 43. [Metal By Tutorials book!Metal教程书籍](https://juejin.im/post/5b0e55f16fb9a00a1520e699)
 44. [Raytracing with Metal射线追踪](https://juejin.im/post/5b49b809e51d45190e34f4ad)
 
+[[译]Metal 渲染管线教程](https://juejin.im/post/5b9dbd76e51d450e877f3780) 
