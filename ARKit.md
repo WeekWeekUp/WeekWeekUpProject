@@ -27,3 +27,5 @@
 
 23. [苹果官方AR多人射击Demo解读(上)](https://xiaozhuanlan.com/topic/5609187342)
 
+24. [苹果官方AR多人射击Demo解读(下)](https://xiaozhuanlan.com/topic/0283791645)
+
