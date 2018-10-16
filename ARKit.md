@@ -25,7 +25,7 @@
 
 22. [[译]AR面部追踪教程:开始](https://xiaozhuanlan.com/topic/1423857096)
 
-23. [苹果官方AR多人射击Demo解读(上)](https://xiaozhuanlan.com/topic/5609187342)
+23. [苹果官方AR多人弹弓射击Demo解读(上)](https://xiaozhuanlan.com/topic/5609187342)
 
-24. [苹果官方AR多人射击Demo解读(下)](https://xiaozhuanlan.com/topic/0283791645)
+24. [苹果官方AR多人弹弓射击Demo解读(下)](https://xiaozhuanlan.com/topic/0283791645)
 
