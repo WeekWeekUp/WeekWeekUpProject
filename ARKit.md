@@ -29,3 +29,4 @@
 
 24. [苹果官方AR多人弹弓射击Demo解读(下)](https://xiaozhuanlan.com/topic/0283791645)
 
+25. [3D与AR/VR应用Debug与优化再谈](https://xiaozhuanlan.com/topic/3625890417)
