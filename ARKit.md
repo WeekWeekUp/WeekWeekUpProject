@@ -20,13 +20,10 @@
 18. [《ARKit by Tutorials》读书笔记5：特殊物理效果](https://xiaozhuanlan.com/topic/1904823657)
 19. [苹果官方ARKit+Vision+Core ML联合使用Demo解读](https://xiaozhuanlan.com/topic/7910568324)
 20. [苹果官方多人AR体验Demo解读](https://xiaozhuanlan.com/topic/9138270546)
-
 21. [苹果官方3D物体扫瞄及检测Demo解读](https://xiaozhuanlan.com/topic/8271605394)
-
 22. [[译]AR面部追踪教程:开始](https://xiaozhuanlan.com/topic/1423857096)
-
 23. [苹果官方AR多人弹弓射击Demo解读(上)](https://xiaozhuanlan.com/topic/5609187342)
-
 24. [苹果官方AR多人弹弓射击Demo解读(下)](https://xiaozhuanlan.com/topic/0283791645)
-
 25. [3D与AR/VR应用Debug与优化再谈](https://xiaozhuanlan.com/topic/3625890417)
+26. [[译]用 ARKit 2 创建一个博物馆 App](https://xiaozhuanlan.com/topic/4593671820)
+
