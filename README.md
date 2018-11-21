@@ -10,6 +10,7 @@
 
 ### 游戏,3D,AR
 
+* [ARKit].[《ARKit by Tutorials》读书笔记2：时空门](https://juejin.im/post/5bf4b0f55188252ea66ae0f8)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit].[《ARKit by Tutorials》读书笔记1：开始入门](https://juejin.im/post/5bee2170e51d451aa501eaaf)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 原创)
 * [ARKit].[[译]在ARKit中创建一个时空门App:材质和光照](https://juejin.im/post/5b88d11be51d4538dd090151)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 * [ARKit].[[译]在ARKit中创建一个时空门App:添加物体](https://juejin.im/post/5b7e2aa6e51d4538ac05bc43)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
