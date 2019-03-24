@@ -19,8 +19,9 @@
 * [所有 ARKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/ARKit.md)
 * [SceneKit].[如何制作一个像Stack的游戏](https://juejin.im/post/5a3232c46fb9a045055e26ef)([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 * [所有 SceneKit 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/SceneKit.md)
+* [Metal].[Using eGPUs with Metal 在 eGPU上使用 Metal](https://juejin.im/post/5c2db6f75188255f1879b76b) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
+* [Metal].[Introduction to compute using Metal 用 Metal 进行计算的简介](https://juejin.im/post/5c723f9cf265da2d8a55b7be) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 * [Metal].[[译]Metal 渲染管线教程](https://juejin.im/post/5b9dbd76e51d450e877f3780) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
-* [Metal].[Raytracing with Metal射线追踪](https://juejin.im/post/5b49b809e51d45190e34f4ad) ([史前图腾](https://juejin.im/user/5a311af051882554bd510dd0/posts) 翻译)
 * [所有 Metal 内容>>](https://github.com/WeekWeekUp/WeekWeekUpProject/blob/master/Metal.md)
 
 ### 实用工具

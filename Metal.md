@@ -48,3 +48,8 @@
 44. [Raytracing with Metal射线追踪](https://juejin.im/post/5b49b809e51d45190e34f4ad)
 
 [[译]Metal 渲染管线教程](https://juejin.im/post/5b9dbd76e51d450e877f3780) 
+
+45. [Using eGPUs with Metal 在 eGPU上使用 Metal](https://juejin.im/post/5c2db6f75188255f1879b76b)
+
+46. [Introduction to compute using Metal 用 Metal 进行计算的简介](https://juejin.im/post/5c723f9cf265da2d8a55b7be)
+
